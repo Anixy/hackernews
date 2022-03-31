@@ -6,6 +6,7 @@ GRAPHQL
 
 - silahkan clone project dengan `git clone https://github.com/Anixy/hackernews`
 - kemudian silahkan jalankan perintah `go mod download` untuk menginstall depedency golang
+- siapkan database sesuai dengan yang dibutuhkan
 - kemudian jalankan server golang dengan perintah `go run server.go`
 - setelah itu anda dapat mengakses graphql pada `http://localhost:8080/query`
 
